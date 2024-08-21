@@ -99,8 +99,6 @@ First, you need to set up a MySQL server on your local machine.
        role ENUM('Admin', 'User') NOT NULL
    );
    ```
-   ![Screenshot 2024-08-14 130728](https://github.com/user-attachments/assets/3a56c428-b57b-4828-a06e-09dc026294a9)
-
 
    This table will store user information, including their name, email, and role.
 
@@ -157,6 +155,9 @@ The server side is built using Node.js and Express and connects to the MySQL dat
    ![Screenshot 2024-08-14 130121](https://github.com/user-attachments/assets/9a67e779-5f93-4994-a811-63bb68809151)
 
    ![Screenshot 2024-08-14 124119](https://github.com/user-attachments/assets/9e6a32d5-a840-444a-abaa-ed573ffde06a)
+
+   ![Screenshot 2024-08-14 130515](https://github.com/user-attachments/assets/2c6d46c5-92fe-481c-974c-034be1133628)
+
 
 ## Usage
 
